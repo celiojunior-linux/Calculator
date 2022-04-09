@@ -1,0 +1,27 @@
+.button {
+    border-radius: 0px;
+    font-size: 1.2em;
+    box-sizing: border-box;
+    border-width: 1px;
+    background-color: white;
+    font-family: "Roboto Mono";
+}
+
+.button:hover{
+    cursor: pointer;
+    background-color: bisque;
+}
+
+.zero {
+    grid-column: 1/ span 2;
+}
+
+.acButton {
+    grid-column: 1/ span 3;
+}
+
+.yellowButton {
+    background-color: #ff7b00;
+    color: white;
+    border: 1px solid white;
+}
