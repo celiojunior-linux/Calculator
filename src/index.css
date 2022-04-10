@@ -8,8 +8,13 @@
     src: url(./fonts/RobotoMono-Bold.ttf);
 }
 
-body {
+*{
     margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
     user-select: none;
     font-family: "Roboto Mono";
     -webkit-font-smoothing: antialiased;

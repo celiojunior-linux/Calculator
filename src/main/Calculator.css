@@ -1,4 +1,5 @@
 .calculator {
+    width: max-content;
     border-radius: 5px;
     overflow: hidden;
     border: 1px solid purple;

@@ -1,7 +1,6 @@
 import React from "react";
 import Calculator from "./main/Calculator";
 import "./Container.css";
-import Button from "./main/components/Button";
 
 export default function App() {
     return (
